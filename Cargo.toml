@@ -12,9 +12,9 @@ categories = ["gui"]
 
 [dependencies]
 imgui = "0.12.0"
-sdl3 = "0.17.3"
+sdl3 = "0.18.3"
 
 [dev-dependencies]
 imgui-glow-renderer = "0.13.0"
-sdl3 = { version = "0.17.3", features = [] }
+sdl3 = { version = "0.18.3", features = [] }
 
